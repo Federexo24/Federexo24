@@ -70,10 +70,9 @@ Incluye:
 * Enemigos
 
 ---
+## 💹 Calculadora de Interés Compuesto
 
-## 💣 Buscaminas ARM
-
-Juego Buscaminas desarrollado en lenguaje ensamblador ARM como proyecto universitario.
+Aplicación web desarrollada con HTML, CSS y JavaScript que permite calcular el crecimiento de una inversión mediante interés compuesto. Incluye validación de datos, cálculos dinámicos y una interfaz intuitiva para el usuario.
 
 ---
 

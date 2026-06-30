@@ -46,7 +46,7 @@ Aplicación web para la gestión de turnos desarrollada con **Java**, **Spring B
 * Desarrollo Backend
 * Proyecto en constante evolución
 
-🔗 **Repositorio:** *(Agregar enlace)*
+🔗 **Repositorio:** https://github.com/Federexo24/TurnoExpress.git
 
 ---
 
